@@ -1,0 +1,21 @@
+h1 {
+    font-size: 50px;
+    font-family: Brush Script MT, san-serif ;
+    text-align: center;
+    font-weight: bold;
+}
+div {
+    text-align: center;
+    background-color: rgb(160, 160, 55)
+}
+
+
+.DogeChefPicture {
+    height: auto;
+    width: 2000px;
+
+}
+
+body,head {
+background-color: rgb(247, 247, 0);
+}
